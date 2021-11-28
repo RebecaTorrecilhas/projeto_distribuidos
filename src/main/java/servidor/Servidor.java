@@ -5,10 +5,6 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- *
- * @author lacomski
- */
 public class Servidor implements Runnable {
 
     protected ServerSocket server;
